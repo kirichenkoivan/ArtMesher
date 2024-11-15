@@ -1,0 +1,75 @@
+{
+    "vertices": [
+        {
+            "position": [
+                -69.0,
+                -62.0
+            ],
+            "color": "#ffffff",
+            "texCoords": [
+                0.0,
+                0.0
+            ],
+            "texID": 0
+        },
+        {
+            "position": [
+                -72.0,
+                51.0
+            ],
+            "color": "#ffffff",
+            "texCoords": [
+                0.0,
+                0.0
+            ],
+            "texID": 0
+        },
+        {
+            "position": [
+                42.0,
+                24.0
+            ],
+            "color": "#ffffff",
+            "texCoords": [
+                0.0,
+                0.0
+            ],
+            "texID": 0
+        },
+        {
+            "position": [
+                105.0,
+                -87.0
+            ],
+            "color": "#ffffff",
+            "texCoords": [
+                0.0,
+                0.0
+            ],
+            "texID": 0
+        },
+        {
+            "position": [
+                -55.0,
+                -137.0
+            ],
+            "color": "#ffffff",
+            "texCoords": [
+                0.0,
+                0.0
+            ],
+            "texID": 0
+        }
+    ],
+    "indices": [
+        0,
+        1,
+        2,
+        0,
+        2,
+        3,
+        0,
+        3,
+        4
+    ]
+}
